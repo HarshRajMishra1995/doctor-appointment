@@ -36,4 +36,11 @@ git clone https://github.com/your-username/doctor-appointment-api.git
 cd doctor-appointment-api
 npm install
 npm run seed
+.env includes below details
+DB_HOST=gondola.proxy.rlwy.net
+DB_PORT=44255
+DB_USERNAME=postgres
+DB_PASSWORD=bukziyuKnAjgwvkXwtkLlHugSmdOjTla
+DB_NAME=railway
+
 
