@@ -12,7 +12,7 @@ This project provides:
 - Appointment booking with conflict prevention
 - RESTful architecture with modular service design
 - PostgreSQL as the database
-- Prisma as ORM, using the `pg` client under the hood
+- Pg as ORM, using the `pg` client under the hood
 
 ---
 
