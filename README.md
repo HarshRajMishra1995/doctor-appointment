@@ -34,3 +34,6 @@ This project provides:
 ```bash
 git clone https://github.com/your-username/doctor-appointment-api.git
 cd doctor-appointment-api
+npm install
+npm run seed
+
